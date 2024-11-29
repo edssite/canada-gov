@@ -16,6 +16,7 @@
 @import url('../blocks/custom/general/helpful-text.css');
 @import url('../blocks/custom/taxes/taxes-title.css');
 @import url('../blocks/custom/taxes/taxes-feature-cards.css');
+@import url('../blocks/custom/taxes/taxes-social.css');
 
 :root {
   /* colors */
