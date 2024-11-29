@@ -145,7 +145,7 @@ header .nav-brand {
 }
 
 header nav .nav-brand img {
-  width: 128px;
+  width: 228px;
   height: auto;
 }
 
@@ -171,6 +171,9 @@ header nav .nav-sections ul {
 
 header nav .nav-sections ul > li {
   font-weight: 500;
+  font-family: noto;
+font-size: 18px;
+margin-left: 50px;
 }
 
 header nav .nav-sections ul > li > ul {
