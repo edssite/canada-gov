@@ -1,13 +1,19 @@
-.benefits-cards > div {
+.government-cards
+
+ > div {
     display: flex;
 }
 
-.benefits-cards > div > div {
+.government-cards
+
+ > div > div {
     width: 400px;
     margin-right: 30px;
 }
 
-.benefits-cards > div > div a {
+.government-cards
+
+ > div > div a {
     font-family: lato;
     font-size: 20px;
     font-variant-ligatures: no-common-ligatures;
@@ -16,11 +22,15 @@
     text-decoration: underline;
 }
 
-.benefits-cards > div > div a:hover {
+.government-cards
+
+ > div > div a:hover {
     color: blue;
 }
 
-.benefits-cards > div > div p {
+.government-cards
+
+ > div > div p {
     color: black;
     font-family: noto;
     font-size: 17px;

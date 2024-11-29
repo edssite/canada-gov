@@ -10,10 +10,12 @@
  * governing permissions and limitations under the License.
  */
 @import url('../blocks/custom/benefits/benefits-title.css');
-@import url('../blocks/custom/benefits/most-requested-benefits.css');
-@import url('../blocks/custom/benefits/benefits-cards.css');
+@import url('../blocks/custom/general/most-requested.css');
+@import url('../blocks/custom/general/governement-cards.css');
 @import url('../blocks/custom/benefits/benefits-quick-link.css');
-@import url('../blocks/custom/benefits/helpful-text.css');
+@import url('../blocks/custom/general/helpful-text.css');
+@import url('../blocks/custom/taxes/taxes-title.css');
+@import url('../blocks/custom/taxes/taxes-feature-cards.css');
 
 :root {
   /* colors */
