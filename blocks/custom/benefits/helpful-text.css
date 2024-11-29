@@ -1,0 +1,40 @@
+.helpful-text {
+    display: flex;
+    background-color: #F5F5F5;
+    width: 500px;
+    padding: 20px;
+    border: 2px solid #E3E3E3; /* Green border */
+    border-radius: 5px; /* Optional: rounded corners */
+}
+
+.helpful-text > div:nth-of-type(1) > div p {
+    font-family: noto;
+    font-size: 16px;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+}
+
+.helpful-text > div:nth-of-type(2) a {
+    margin-left: 5px;
+    color: white; /* Link text color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px;
+    padding-left: 15px; /* Space between text and border */
+    padding-right: 15px; /* Space between text and border */
+    border-radius: 5px; /* Optional: rounded corners */
+    background-color: #26374a; /* Fill the inside of the box with light green */
+    font-family: lato;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.helpful-text > div:nth-of-type(2) a:hover {
+
+    background-color: #1C578A;
+
+}
+
+
+.helpful-text > div:nth-of-type(2) {
+    margin-left: 50px;
+}

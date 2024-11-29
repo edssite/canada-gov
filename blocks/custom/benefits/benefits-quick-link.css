@@ -1,0 +1,16 @@
+.benefits-quick-links > div > div > h2 a {
+    color: black;
+}
+
+
+.benefits-quick-links > div > div strong {
+    
+    font-family: lato, sans-serif;
+    font-size: 17.4px;
+    font-variant-ligatures: no-common-ligatures;
+    font-weight: 700;
+
+}
+
+
+

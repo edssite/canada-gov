@@ -1,0 +1,31 @@
+.benefits-title > div {
+    display: flex;
+}
+
+.benefits-title > div > div:nth-of-type(1) h1 {
+    font-family: lato;
+    font-size: 38px;
+    font-variant-ligatures: no-common-ligatures;
+    font-weight: 700;
+}
+
+.benefits-title > div > div:nth-of-type(1) h1::after {
+    content: '';
+    display: block;
+    width: 15%; /* Set the width of the border */
+    height: 7px; /* Set the height of the border */
+    background-color: #AF3C43; /* Set the color of the border */
+
+}
+
+.benefits-title > div > div:nth-of-type(1) p {
+    font-family: noto;
+    font-size: 20px;
+    width: 585px;
+}
+
+.benefits-title > div > div:nth-of-type(2) > picture img {
+    width: 520px;
+    height: 200px;
+    margin-top: 50px;
+}

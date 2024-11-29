@@ -9,6 +9,11 @@
  * OF ANY KIND, either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
  */
+@import url('../blocks/custom/benefits/benefits-title.css');
+@import url('../blocks/custom/benefits/most-requested-benefits.css');
+@import url('../blocks/custom/benefits/benefits-cards.css');
+@import url('../blocks/custom/benefits/benefits-quick-link.css');
+@import url('../blocks/custom/benefits/helpful-text.css');
 
 :root {
   /* colors */
